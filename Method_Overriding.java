@@ -1,6 +1,6 @@
 package sem_exm;
 
-// Method Overriding / Run-Time Polymorphism
+// Method Overriding / Run-Time Polymorphisms
 
 class Bank {
     int getRateOfInterest() {
