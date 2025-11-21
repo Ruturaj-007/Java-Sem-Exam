@@ -1,4 +1,4 @@
-package sem_exm.enumerations.multithreading;
+package sem_exm.enumerations.multithreading_03;
 
 class CookingJob implements Runnable {
     private String dish;
