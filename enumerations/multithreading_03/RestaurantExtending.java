@@ -1,4 +1,4 @@
-package sem_exm.enumerations.multithreading;
+package sem_exm.enumerations.multithreading_03;
 
 class CookingTask extends Thread {  // Custom thread class
     private String dish;
