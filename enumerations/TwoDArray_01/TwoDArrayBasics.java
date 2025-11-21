@@ -1,4 +1,4 @@
-package sem_exm.enumerations;
+package sem_exm.enumerations.TwoDArray_01;
 
 public class TwoDArrayBasics {
     public static void main(String[] args) {
