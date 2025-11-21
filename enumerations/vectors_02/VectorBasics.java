@@ -1,4 +1,4 @@
-package sem_exm.enumerations;
+package sem_exm.enumerations.vectors_02;
 
 import java.util.Vector;
 
