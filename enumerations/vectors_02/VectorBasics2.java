@@ -8,11 +8,11 @@ public class VectorBasics2 {
         System.out.println("Initial Capacity : " + Players.capacity());
 
         // Add elements tot trigger capacity increase
-        Players.add(10);
-        Players.add(20);
+        Players.add(7);     // DHONI
+        Players.add(18);    // VIRAT
         System.out.println("Capacity after adding 2 elements: " + Players.capacity());
 
-        // Using set() method to replace 10 with 11
+        // Using set() method to replace 18 with 11
         System.out.println("The Object that is replaced is: " + Players.set(0, 11));
 
         System.out.println("The new Vector is:" + Players);
