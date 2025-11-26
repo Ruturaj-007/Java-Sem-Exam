@@ -1,4 +1,4 @@
-package sem_exm.enumerations.filehandling;
+package sem_exm.enumerations.filehandling_05;
 
 import java.io.InputStreamReader;
 import java.io.IOException;
