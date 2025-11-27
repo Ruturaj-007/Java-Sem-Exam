@@ -1,6 +1,6 @@
 package sem_exm.enumerations.exceptionhandling_04;
 
-public class ArithmeticException {
+public class ArithmeticExceptionExp {
     public static void main(String[] args) {
         try {
             int[] arr = new int[2];

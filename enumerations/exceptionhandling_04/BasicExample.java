@@ -1,6 +1,6 @@
 package sem_exm.enumerations.exceptionhandling_04;
 
-public class Main {
+public class BasicExample {
     public static void main(String[] args) {
         int a = 10;
         int b = 0;
@@ -13,7 +13,7 @@ public class Main {
         }
     }
 
-        static int divide(int a, int b) throws ArithmeticException {
+        static int divide(int a, int b) throws ArithmeticException{
             if (b==0) {
                 throw new ArithmeticException("Please do not divide by zero");
             }

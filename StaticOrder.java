@@ -9,7 +9,7 @@ public class StaticOrder {
     StaticOrder() {                                         // Variable
         count++;
     }
-    static{
+    static{                                                 // Block
         System.out.println("Hello, I'm inside the static Block");
         b = a * 4;
     }

@@ -1,0 +1,26 @@
+streams is sequence of data : byte character(unicode)
+java implements these with in class hierchies in java.io package
+abstraction that java provides
+
+in is a ref var of type inputstream
+public static final InputStream in = null;
+
+Streams in java:
+    -ByteStream:Handles input read and write of files
+        has 2 class hierchy in and out stream
+        both extend the obj class data
+
+    -CharacterStream:
+        Reader
+        Writer
+
+        IOException
+
+        system.out -> std output stream -> console  also a printstream
+        system.in  -> std input  stream -> keyboard
+        system.err -> std err           -> console  also a printstream
+
+        autoclosable considering it as a resrc
+
+
+

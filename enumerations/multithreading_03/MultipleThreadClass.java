@@ -1,4 +1,4 @@
-package sem_exm.enumerations.exceptionhandling_04;
+package sem_exm.enumerations.multithreading_03;
 
 class A extends Thread {
     public void run() {
